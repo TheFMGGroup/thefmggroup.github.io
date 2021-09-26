@@ -20,7 +20,7 @@
 <p>When hosted on Github contact @deddit</p>
 
 <h1>Stuff</h1>
-</p>
+
 <p>
 In this website I will be doing tests please ignore anything labeled test.
 .A part from that this is a normal wesite coded in HTML.
