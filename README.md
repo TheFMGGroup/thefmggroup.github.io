@@ -22,13 +22,14 @@ A testing area
 <p>When hosted on Github contact @deddit</p>
 
 <h1>Stuff</h1>
+</p>
 <p>
 In this website I will be doing tests please ignore anything labeled test.
 .A part from that this is a normal wesite coded in HTML.
 </p>
-<p>The souce code has been rleased on github </p>
+<p>The souce code has been released on github </p>
 <P>
-    <img class="tile--img__img  js-lazyload" src="//external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.fq9Rse-6wiSoJiVfYbHoJwHaEo%26pid%3DApi&amp;f=1" data-src="//external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.fq9Rse-6wiSoJiVfYbHoJwHaEo%26pid%3DApi&amp;f=1" alt="HTML5 Benefits and Importance - eMagid Los Angeles">
+    <img class="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FGitHub_logo.png&f=1&nofb=1">
     
 <p>This website may be alone of not being updated for days,weeks or even months but I never leave a project unfinished </p>
     
