@@ -1,8 +1,6 @@
 <html>
 <header>
-<Title>
-A testing area
-</Title>
+<title> A testing area </title>
 </header>
 
 <address><mark class=green>A website for testing 2021-2021</mark></address><p></p>
