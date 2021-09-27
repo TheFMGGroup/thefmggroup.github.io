@@ -14,10 +14,9 @@
     
 <h1>About</h1>
 <p>I'm leland Ward a developer of many things. I run a tech based media group (listed below). This is me testing if i'm good enough at HTML5 to code bigger and better things. I am an avid Liverpool F.C fan. Enjoy casual Fortnite and FIFA playing.
-    See you in a bit.
+    See you in a bit.</p>
     
-I'm dakrustyboi and I help maintain the website, and in future, post updates/news on the site.
-</p>
+<p>I'm dakrustyboi and I help maintain the website, and in future, post updates/news on the site.</p>
 
 <h1>Bugs</h1>
 
