@@ -47,4 +47,6 @@ In this website I will be doing tests please ignore anything labeled test.
 <p>You can find the souce code listed on Github.io under Sabbath_OS</p>
 <a href="/wikiarchive">Wikipedia Archives</a>
     
-    <h3> if the link doesn't work here it is: thefmggroup.github.io/wikiarchive </h3>
+    <h1> Staff </h1>
+    <a href="/dakrustyboi">dakrustyboi- technical jargon</a> 
+    <a href="github.com/Deddit">Deddit- writing, maintainance, technical jargon</a>
