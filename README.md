@@ -5,7 +5,14 @@
 </head>
     
 <body>
-
+    
+<div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+</div> 
+    
 <p>A website for stuff 2021-2021</p>
 
 <h1>Any FMG Group News</h1>
