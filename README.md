@@ -48,5 +48,5 @@ In this website I will be doing tests please ignore anything labeled test.
 <a href="/wikiarchive">Wikipedia Archives</a>
     
 <h1> Staff </h1>
-<a href="/dakrustyboi">dakrustyboi- technical jargon</a> 
-<a href="github.com/Deddit">Deddit- writing, maintainance, technical jargon</a>
+<h2><a href="/dakrustyboi">dakrustyboi- technical jargon, bug fixing, writing?</a></h2>
+<h2><a href="github.com/Deddit">Deddit- writing, maintainance, technical jargon</a>
