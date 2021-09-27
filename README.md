@@ -6,7 +6,7 @@
     
 <body>
 
-<p>A website for testing 2021-2021</p>
+<p>A website for stuff 2021-2021</p>
 
 <h1>Any FMG Group News</h1>
     <p>Inpiration quote</P>
