@@ -16,3 +16,10 @@ p {
   text-align: center;
   color: black;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
