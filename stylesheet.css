@@ -1,21 +1,21 @@
 body {
-  background-color: rgb(220, 220, 220);
+  background-color: black;
   font-family: Helvetica, Times New Roman, Arial;
 }
 
 h1 {
   text-align: center;
-  color: navy;
+  color: lightblue;
 }
 
 h2 {
   text-align: center;
-  color: black;
+  color: white;
 }
 
 p {
   text-align: center;
-  color: black;
+  color: white;
 }
 
 .center {
