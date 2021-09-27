@@ -9,7 +9,7 @@
 <p>A website for testing 2021-2021</p>
 
 <h1>Any FMG Group News</h1>
-
+    <p>Inpiration quote</P>
 <img src="https://generated.inspirobot.me/a/bRelEYmaJ7.jpg" alt="Inspiration" class="center" style="width:500px;height:600px;">
     
 <h1>About</h1>
