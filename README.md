@@ -28,7 +28,7 @@
 In this website I will be doing tests please ignore anything labeled test.
 .A part from that this is a normal wesite coded in HTML.
 </p>
-<p>The souce code has been released on github </p>
+<p>ABOUT THE SOUCE CODE, IT CANT BE RELEASED </p>
 <P>
     <img class="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FGitHub_logo.png&f=1&nofb=1">
     
@@ -39,16 +39,14 @@ In this website I will be doing tests please ignore anything labeled test.
 </P>
 <p></p>
 <P>
-    <mark class="red">ON THIS WEBSTIE YOU WILL SE SOME GLICHES AND WHAT NOT BUT NOTHING TO MUCH IT IS ONLY A BIG TEST.</mark> </P>
+    <mark class="red">ON THIS WEBSTIE YOU WILL SE SOME ISSUES AND WHAT NOT BUT NOTHING TO MUCH IT IS ONLY A BIG TEST.</mark> </P>
 
 
-<P>
-    youtube.com/channel/UC1NEDcS-XrFCURxCAwValZw the person who made it 
-</P>
+
 <p>You will also see the souce code and documents for things think of this sometimes as a long winded google effort, just badly made</p>
 <h1>Souce code</h1>
 <p>You can find the souce code listed on Github.io under Sabbath_OS</p>
-<h1><a href="/wikiarchive">Wikipedia Archives</a></h1>
+<a href="/wikiarchive">Wikipedia Archives</a>
     
 <h1> Staff </h1>
 <h2><a href="/dakrustyboi">dakrustyboi- technical jargon, bug fixing, writing?</a></h2>
