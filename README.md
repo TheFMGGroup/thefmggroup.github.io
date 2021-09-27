@@ -7,7 +7,7 @@
 <body>
 
 <address><mark class=green>A website for testing 2021-2021</mark></address><p></p>
-<body>
+
 <h1>Any FMG Group News</h1>
 
 <p>Random quote for the week <img src="https://generated.inspirobot.me/a/bRelEYmaJ7.jpg" alt="Inspiration">
