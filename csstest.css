@@ -1,8 +1,18 @@
 body {
-  background-color: lightblue;
+  background-color: white;
 }
 
 h1 {
+  text-align: center;
   color: navy;
-  margin-left: 20px;
+}
+
+h2 {
+  text-align: center;
+  color: black;
+}
+
+p {
+  text-align: center;
+  color: black;
 }
