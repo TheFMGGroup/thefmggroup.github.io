@@ -1,7 +1,11 @@
+<!DOCTYPE html>
 <html>
-<header>
+<head>
+<link rel="stylesheet" href="csstest.css">
 <title>A testing area- Wow!</title>
-</header>
+</head>
+    
+<body>
 
 <address><mark class=green>A website for testing 2021-2021</mark></address><p></p>
 <body>
@@ -50,3 +54,5 @@ In this website I will be doing tests please ignore anything labeled test.
 <h1> Staff </h1>
 <h2><a href="/dakrustyboi">dakrustyboi- technical jargon, bug fixing, writing?</a></h2>
 <h2><a href="github.com/Deddit">Deddit- writing, maintainance, technical jargon</a>
+</body>
+</html>
