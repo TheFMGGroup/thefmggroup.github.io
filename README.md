@@ -44,8 +44,7 @@ In this website I will be doing tests please ignore anything labeled test.
 
 
 <p>You will also see the souce code and documents for things think of this sometimes as a long winded google effort, just badly made</p>
-<h1>Souce code</h1>
-<p>You can find the souce code listed on Github.io under Sabbath_OS</p>
+    <H1> The wiki archives</h1>
 <a href="/wikiarchive">Wikipedia Archives</a>
     
 <h1> Staff </h1>
