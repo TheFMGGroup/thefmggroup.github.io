@@ -10,7 +10,7 @@
 
 <h1>Any FMG Group News</h1>
 
-<img src="https://generated.inspirobot.me/a/bRelEYmaJ7.jpg" alt="Inspiration">
+<img src="https://generated.inspirobot.me/a/bRelEYmaJ7.jpg" alt="Inspiration" class="center">
     
 <h1>About</h1>
 <p>I'm leland Ward a developer of many things. I run a tech based media group (listed below). This is me testing if i'm good enough at HTML5 to code bigger and better things. I am an avid Liverpool F.C fan. Enjoy casual Fortnite and FIFA playing.
