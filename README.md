@@ -40,7 +40,6 @@ In this website I will be doing tests please ignore anything labeled test.
 <p></p>
 <P>
     <mark class="red">ON THIS WEBSTIE YOU WILL SE SOME ISSUES AND WHAT NOT BUT NOTHING TO MUCH IT IS ONLY A BIG TEST.</mark> </P>
-    <p><h3><a href="https://www.speedtest.net/" Test your internet </a></h3></p>
 
 
 <p>You will also see the souce code and documents for things think of this sometimes as a long winded google effort, just badly made</p>
