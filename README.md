@@ -6,7 +6,7 @@
     
 <body>
 
-<address><mark class=blue>A website for testing 2021-2021</mark></address><p></p>
+<p>A website for testing 2021-2021</p>
 
 <h1>Any FMG Group News</h1>
 
