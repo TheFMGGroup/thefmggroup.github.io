@@ -28,18 +28,16 @@
 In this website I will be doing tests please ignore anything labeled test.
 .A part from that this is a normal wesite coded in HTML.
 </p>
-<p>ABOUT THE SOUCE CODE, IT CANT BE RELEASED </p>
+<p>ABOUT THE SOURCE CODE, IT CANT BE RELEASED </p>
 <P>
     <img class="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FGitHub_logo.png&f=1&nofb=1">
     
 <p>This website may be alone of not being updated for days,weeks or even months but I never leave a project unfinished </p>
     
 <p>Eventually we will tranfer to HTML6 when that comes out in about 6 months</p>        
-
-</P>
-<p></p>
-<P>
-    <mark class="red">ON THIS WEBSTIE YOU WILL SE SOME ISSUES AND WHAT NOT BUT NOTHING TO MUCH IT IS ONLY A BIG TEST.</mark> </P>
+    
+    
+<p>ON THIS WEBSTIE YOU WILL SE SOME ISSUES AND WHAT NOT BUT NOTHING TO MUCH IT IS ONLY A BIG TEST.</p>
 
 
 
