@@ -6,22 +6,6 @@
     
 <body>
     
-<script>
-function myFunction() {
-  var element = document.body;
-  element.classList.toggle("dark-mode");
-} 
-</script>
-
-<p id="demo">A Paragraph</p>
-
-<button type="button" onclick="myFunction()">Try it</button>
-
-<script>
-function myFunction() {
-  document.getElementById("demo").innerHTML = "Paragraph changed.";
-}
-</script> 
     
 <div class="topnav">
   <a class="active" href="#home">Home</a>
