@@ -6,6 +6,14 @@
     
 <body>
     
+<script>
+function myFunction() {
+  var element = document.body;
+  element.classList.toggle("dark-mode");
+} 
+</script>
+
+    
 <div class="topnav">
   <a class="active" href="#home">Home</a>
   <a href="https://thefmggroup.github.io/wikiarchive">Wikipedia Archives</a>
