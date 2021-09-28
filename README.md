@@ -1,6 +1,7 @@
 <html>
 <head>
 <link rel="stylesheet" href="stylesheet.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 <title>A testing area- Wow!</title>
 </head>
     
@@ -45,5 +46,28 @@ In this website I will be doing tests please ignore anything labeled test.
 <h2><a href="/dakrustyboi">dakrustyboi- technical jargon, bug fixing, writing?</a></h2>
 <h2><a href="https://www.youtube.com/channel/UC1NEDcS-XrFCURxCAwValZw">Deddit- writing, maintainance, technical jargon</a></h2>
 
+    
+    
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "transparent",
+      "text": "#f1d600",
+      "border": "#f1d600"
+    }
+  },
+  "position": "bottom-left",
+  "content": {
+    "dismiss": "Accept Cookies",
+    "link": "Learn More",
+    "href": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  }
+});
+</script>
 </body>
 </html>
